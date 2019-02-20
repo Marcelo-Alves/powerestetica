@@ -1,0 +1,2 @@
+[24-Oct-2018 16:18:17 CST6CDT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/poweresteticacom/public_html/php/envia_email.php on line 25
+[24-Oct-2018 16:20:41 CST6CDT] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/poweresteticacom/public_html/php/envia_email.php on line 24
